@@ -6,4 +6,4 @@
 
 ## 😍
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-%23f7df1e?logo=JavaScript&logoColor=white) ![Korean](https://img.shields.io/badge/-Korean-%23134a9d) ![Rust](https://img.shields.io/badge/-Rust-%23000000?logo=Rust&logoColor=white) ![Go](https://img.shields.io/badge/-Go-blue)
+![Typescript](https://badgen.net/badge/-/TypeScript?icon=typescript&label&labelColor=blue&color=555555) ![JavaScript](https://img.shields.io/badge/-JavaScript-%23f7df1e?logo=JavaScript&logoColor=white) ![Korean](https://img.shields.io/badge/-Korean-%23134a9d) ![Rust](https://img.shields.io/badge/-Rust-%23000000?logo=Rust&logoColor=white) ![Go](https://img.shields.io/badge/-Go-blue)
