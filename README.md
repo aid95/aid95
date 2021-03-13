@@ -4,7 +4,7 @@
 
 # <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> About me
 
-안녕하세요! 저는 사람들의 생활속에 녹아들어 가치있는 서비스를 제공할 수 있는 웹/앱분야에 흥미를 느껴 공부하고 있는 현재 취준생 개발자 신병주입니다.
+안녕하세요! 저는 사람들의 생활 속에 녹아들어 가치 있는 서비스를 제공할 수 있는 웹/앱 분야에 흥미를 느껴 공부하고 있는 현재 취준생 개발자 신병주입니다.
 
 <p>
 <img alt="React" src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
