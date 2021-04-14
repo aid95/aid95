@@ -1,3 +1,5 @@
+![header](https://capsule-render.vercel.app/api?type=egg&color=gradient&height=140&section=header&text=Juraffe%20World&fontSize=50)
+
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hi there
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=aid95&show_icons=true" />
