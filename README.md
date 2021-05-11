@@ -2,7 +2,7 @@
 
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hi there
 
-<img align="right" width="580" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aid95&theme=vue" />
+<img align="right" width="520" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aid95&theme=vue" />
 
 # <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> About me <a href="https://www.notion.so/juraffe/76e0aa9754114e7880bc586da4c44027" target="_blank" rel="noopener noreferrer"><img alt="Notion" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/notion.svg" width="18px" height="18px" /></a> <a href="https://www.facebook.com/byeonju.lion.99/" target="_blank" rel="noopener noreferrer"><img alt="Notion" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/facebook.svg" width="18px" height="18px" /></a> <a href="https://open.kakao.com/o/sh4yJOac" target="_blank" rel="noopener noreferrer"><img alt="Notion" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/kakaotalk.svg" width="18px" height="18px" /></a>
 
