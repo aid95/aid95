@@ -6,7 +6,7 @@
 
 # <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> About me <a href="https://www.facebook.com/byeonju.lion.99/" target="_blank" rel="noopener noreferrer"><img alt="Notion" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/facebook.svg" width="18px" height="18px" /></a> <a href="https://open.kakao.com/o/sh4yJOac" target="_blank" rel="noopener noreferrer"><img alt="Notion" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/kakaotalk.svg" width="18px" height="18px" /></a>
 
-안녕하세요! 저는 사람들의 생활 속에 녹아들어 가치 있는 서비스를 제공할 수 있는 웹/앱 분야에 매력을 느껴 공부하고 있는 현재 취준생 개발자 신병주입니다.
+안녕하세요! 저는 사람들의 생활 속에 녹아들어 가치 있는 서비스를 제공할 수 있는 웹/앱 분야에 매력을 느껴 공부하고 있는 현재 신입 개발자 신병주입니다.
 
 <p>
 <img alt="React" src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
